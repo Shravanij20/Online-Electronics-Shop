@@ -1,0 +1,50 @@
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.card img{
+    width: 3000px;
+}
+.card {
+    margin-top: 30px;
+}
+
+#anant {
+    margin-top: 30px;
+    margin-left: 600px; /* Adjusted margin for smaller screens */
+}
+
+h1:hover {
+    cursor: pointer;
+    margin-top: 30px;
+    transition: .5s;
+    color: red;
+}
+
+#offer {
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    ul {
+        padding-left: 10px;
+    }
+
+    .card {
+        margin: 0;
+    }
+
+    #anant {
+        margin-left: 140px;
+        margin-bottom: 60px;
+    }
+}

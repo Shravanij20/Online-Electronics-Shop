@@ -1,0 +1,41 @@
+
+
+/* Cart.css */
+
+.container {
+    margin-top: 7%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  .container img {
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+
+  @media (max-width: 768px) {
+
+    .container{
+      margin-top: 30%;
+    }
+    .container .table img {
+         width: 70%;
+         font-size: 1%;
+    }
+}
