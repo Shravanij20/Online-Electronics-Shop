@@ -1,0 +1,22 @@
+{
+  "name": "online_electronic_shop",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "scripts": {
+    "test": "y",
+    "start": "react-scripts start"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "u",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+
+}
+
